@@ -1,0 +1,194 @@
+# Welcome to Plus!
+#
+# This config file affects your whole blog.
+# This file is *NOT* reloaded automatically when you use 'bundle exec jekyll serve' 
+# MDB  bundle exec jekyll serve --livereload
+# If you change this file, please restart the server process.
+
+# Site settings
+title:                  BStreams WebSite
+description:            BStreams makes you connect your data and build amazing visualizations for the web  
+url:                    "https://bstreams.io"  # Site base hostname & protocol, e.g. http://example.com
+baseurl:                ""                    # Site subpath, e.g. /blog
+lang:                   en
+logo:                   logo-logo-color@2x.png
+logo_light:             logo-logo-color@2x.png
+permalink:              /:title/ # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+date_format:            "%b %-d, %Y" # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+uploads:                /uploads/ # Path to post content assets directory i.e post images, pdfs etc
+template:               base
+
+paginate:               6 # Number of posts displayed on blog page
+paginate_path:          "/blog/:num/" # Blog path
+
+# Default author settings
+author:
+  name:                 Massimiliano Di Bartolo
+  avatar:               
+  title:                     
+  bio:                  
+  url:
+  email:                
+  website:
+  facebook:             
+  flickr:
+  dribbble:
+  github:
+  googleplus:
+  instagram:            
+  linkedin:
+  pinterest:
+  twitter:
+  vimeo:
+  youtube:
+
+# Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
+authors:
+  andy:
+    name:               
+    title:                   
+    avatar:             
+  claudio:
+    name:               
+    title:                  
+    avatar:             
+  gabriele:
+    name:               
+    title:                   
+    avatar:             
+  
+navbar:
+  layout:               default # default, center
+  color:                dark # text color, dark or light
+  animation:            true
+  sticky:               true
+  search:               false
+
+footer:                 # Default footer image settings
+  style:                #primary # default, muted, primary, secondary
+  layout:               center # center or columns
+  copyright:            Copyright © 2020 BStreams
+
+mailchimp:
+  form_action:          000000
+  hidden_name:          000000
+  
+google_analytics:       # Google analytics code, get your code here https://www.google.com/analytics/
+google_maps_api_key:    # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
+
+disqus:
+  shortname:            # Disqus comments shortname, requires Disqus account https://disqus.com/
+
+instagram_accesstoken:  
+
+donations:
+  paypal:
+    id:                 # PayPal button ID
+    navbar:             # true
+
+# Social share buttons
+social_share:
+  twitter:              false
+  facebook:             false
+  linkedin:             false
+  pinterest:            false
+  reddit:               false
+
+# Social buttons
+social_networks:
+  email:                
+  website:
+  facebook:            
+  flickr:
+  dribbble:
+  github:
+  googleplus:
+  instagram:            
+  linkedin:
+  pinterest:
+  twitter:
+  vimeo:
+  youtube:
+
+# Build settings
+markdown:               kramdown
+highlighter:            rouge
+kramdown:
+  toc_levels:           "2"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-sitemap
+  - jemoji
+
+exclude: 
+  - vendor
+  - .bundle
+  - .sass-cache
+  - config
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - log
+  - tmp
+  - Rakefile
+  - package.json
+  - CHANGELOG
+  - LICENSE
+  - README
+  - /docs
+
+sass:
+  style:                compressed
+
+# collections:
+collections:
+  blocks:
+    output:             false
+  sidebars:
+    output:             false
+  faqs:
+    output:             false
+  portfolio:
+    output:             true
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path:                 ""
+      type:                 posts
+    values:
+      layout:               post
+      section:              large
+      sidebar: 
+        right:              blog
+      comments:             # true
+      share:                true
+      related:              true
+      mailchimp:            true
+      navbar:
+        transparent:        true
+        transparent_color:  light
+      header:
+        layout:             center
+        background_overlay: "rgba(0, 0, 0, 0.5)"
+        color:              light
+        header_size:        large
+        heading_size:       medium
+        parallax:           true
+  # _pages
+  - scope:
+      path:                 ""
+      type:                 pages
+    values:
+      layout:               page
+  # _portfolio
+  - scope:
+      path:                 ""
+      type:                 portfolio
+    values:
+      layout:               page

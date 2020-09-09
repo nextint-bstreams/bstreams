@@ -1,0 +1,18 @@
+# Navbar menu navigation links
+- title: Home
+  url: /
+
+- title: Log in
+  url: https://app.bstreams.io
+
+# - title: Sign up 
+#   url: https://app.bstreams.io/account/signup
+
+# - title: Faq
+#   url: /faq/
+
+# - title: Contact
+#   url: /contact/
+
+# - title: Blog
+#   url: /blog/
