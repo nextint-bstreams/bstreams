@@ -1,5 +1,5 @@
 ---
-title: Enhance your articles with amazing data visualizations
+title: Enhance your contents with amazing data visualizations
 subtitle: Start for free right now.
 button:
   style: primary

@@ -152,6 +152,8 @@ collections:
     output:             false
   faqs:
     output:             false
+  terms:
+    output:             false
   portfolio:
     output:             true
 

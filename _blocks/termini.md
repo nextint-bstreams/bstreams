@@ -1,0 +1,79 @@
+---
+title: Terms and Conditions
+---
+
+1. #### Preambolo
+NextInt Lab ti dà il benvenuto sul sito web BStream (in questo contratto definito d’ora in avanti per semplicità “**Sito**”). Il Sito è gestito da NextInt Lab S.r.l. (di seguito denominata semplicemente “**NextInt**” o “**Noi**”). Siamo una startup italiana con sede legale in via Nino Oxilia 22, 20127 Milano, numero di partita IVA 10245130967, capitale sociale € 30.000 i.v.
+Queste condizioni di servizio (nel prosieguo “**Termini**” o “**Contratto**”), oltre a tutti gli altri documenti qui espressamente richiamati, disciplinano l’acquisto e l’uso dei Servizi e del Sito da parte degli Utenti. I Servizi sono descritti all’articolo 5 “Descrizione e modalità d’uso dei Servizi”. Prima di iscriverti al Servizio, ti invitiamo a leggere con attenzione il presente documento in quanto costituisce un contratto vincolante tra l’utente (in questo Contratto indicato anche con l’espressione “**Tu**” o “**Utente**”) e NextInt.
+Il preambolo è parte integrante del Contratto. Le definizioni potranno essere utilizzate indifferentemente al singolare o al plurale. I termini che denotano un genere includono l’altro genere. In caso di incongruenza tra una qualsiasi delle disposizioni della versione in lingua inglese e la versione in lingua italiana, prevarranno le disposizioni di quest’ultima.
+
+2. #### Accesso al sito e modalità d'uso
+L’accesso al nostro Sito è gratuito, tuttavia l’utilizzo dei Servizi può essere soggetto al pagamento di un corrispettivo, a seconda del piano di abbonamento da Te selezionato. La registrazione di un account, personale e non cedibile, è riservata ad utenti che abbiano compiuto la maggiore età. Se utilizzi il Servizio, accetti di vincolarti al Contratto e di attenerti a quanto in esso previsto. Se hai domande sui presenti Termini o per qualsiasi dubbio in relazione alle caratteristiche dei Servizi, ti preghiamo di contattarci tramite e-mail a <hello@bstreams.io>
+
+3. #### Efficacia del contratto e abbonamenti
+    1. Il Contratto si intenderà concluso ed efficace una volta che si sia conclusa la registrazione di un Account. A margine della procedura di registrazione, riceverai un’e-mail a conferma dell’avvenuta configurazione del tuo account. Si precisa che il luogo di conclusione del Contratto coincide con la sede della nostra società.
+    2. Gli Utenti possono utilizzare una versione gratuita del Servizio con funzionalità limitate, oppure sottoscrivere un piano a pagamento (“**Abbonamento**”). Gli Abbonamenti possono avere durata diversa, comunque da un minimo di 1 mese ad un massimo di 1 anno. Una volta completata la registrazione con Noi hai diritto ad utilizzare una versione gratuita del Servizio. Prima di confermare un acquisto, ti verrà data la possibilità di rivedere l’Abbonamento scelto e correggere eventuali errori. È tua responsabilità assicurarti che il tuo ordine sia corretto.
+    3. Una volta che il tuo ordine è stato accettato, riceverai una conferma da parte nostra tramite e-mail, che include le informazioni relative al Servizio e le caratteristiche dell’Abbonamento scelto, oltre ad una conferma del prezzo pagato.
+ 
+4. #### Corrispettivi e pagamento
+    1. Dopo aver selezionato il tuo piano di Abbonamento, verrai reindirizzato alla pagina dove effettuare il pagamento. La quota di Abbonamento può essere pagata con carta di credito e non è rimborsabile a meno che Tu non sia un consumatore residente nell'Unione Europea. Quale consumatore hai diritto in alcune circostanze a recedere dal Contratto, come meglio specificato all’articolo 11 Diritto di recesso.
+    2. Il tuo Abbonamento si rinnoverà automaticamente per un periodo equivalente. Se non desideri continuare ad utilizzare i nostri Servizi, devi annullare il tuo Abbonamento con almeno 1 giorno di anticipo rispetto alla data di scadenza tramite il tuo account o notificandoci la tua decisione al seguente indirizzo e-mail: <subscription@bstream.io>.
+    3. Ci riserviamo il diritto di modificare i prezzi e di aggiungere, modificare o rimuovere offerte speciali di volta in volta a nostra discrezione. Le modifiche non influiranno sugli Abbonamenti in corso, ma potrebbero influire su eventuali rinnovi. Tutti i prezzi includono l’IVA.
+ 
+5. #### Descrizione e modalità d'uso dei servizi
+    1. Attraverso il nostro Sito web mettiamo a disposizione uno strumento che permette agli Utenti di rappresentare i propri dati in modo grafico generando tabelle, grafici, immagini, ed altri contenuti digitali (i “**Servizi**”). Puoi mantenere il tuo Progetto privato o renderlo pubblico incorporandolo in una pagina web (iframe) o condividendolo con terze parti tramite un link: riconosci che, così facendo, il pubblico in generale potrà accedere, visualizzare e potenzialmente copiare e distribuire il tuo Progetto, il Contenuto Utente e tutti i dati integrati nel tuo Bstream: qualsiasi utilizzo di questo tipo è al di fuori del nostro controllo e non abbiamo alcuna responsabilità sul tuo Bstream e sul suo contenuto.
+    2. Per poter utilizzare i Servizi, è necessario:
+        - Registrare un account.
+        - Se decidi di acquistare uno dei nostri Abbonamenti, passare ad uno dei nostri account premium e finalizzare il pagamento.
+        - Caricare i tuoi dati sul Sito web secondo le nostre specifiche come indicato sul Sito stesso.
+        - Creare un nuovo progetto (in questo Contratto denominato “Progetto” o “Bstream”).
+
+6. #### Proprietà intellettuale e termini di licenza
+    1. Fatto salvo quanto previsto sul “Contenuto Utente” come definito alla clausola 6.2, tutti i diritti d’autore e la proprietà intellettuale sul contenuto e materiale pubblicato o comunque incorporato nel Sito (di seguito definito come “**Contenuto NextInt**”), compreso il Sito stesso, il software, i marchi, i loghi, le immagini, le foto, i progetti, la grafica, i modelli, i diagrammi, i testi, i grafici, le tabelle, le mappe anche se generati a partire dai Contenuti Utente, appartengono a Noi o ci sono stati concessi in licenza.
+    Tutto il Contenuto NextInt è protetto dalle leggi italiane e dalle leggi e dai trattati internazionali sulla proprietà intellettuale ed il diritto d’autore.
+    Ti concediamo il diritto di utilizzare in maniera non esclusiva, personale, revocabile ed in tutto il mondo il Sito e i suoi strumenti, inclusi i nostri modelli, codici e grafici, per la durata e alle condizioni del tuo Abbonamento e al solo scopo di usufruire dei Servizi.
+    2. Il Contenuto Utente include tutte le informazioni, i dati, i testi, le fotografie, i grafici, le immagini o gli altri materiali che l’Utente carica, pubblica, archivia e/o condivide sul nostro Sito in relazione all’utilizzo dei Servizi (“**Contenuto Utente**”); tuttavia non include i modelli di NextInt, i grafici e tutto il Contenuto NextInt come definito alla clausola 6.1.
+    Tu (o i tuoi danti causa) conservi la proprietà dei Contenuti Utente e tutti i diritti di proprietà intellettuale sugli stessi. Quando invii, carichi o rendi disponibili in altro modo i Contenuti Utente tramite il nostro Sito, concedi a NextInt una licenza mondiale, non esclusiva, gratuita, completamente trasferibile, esente da royalty per utilizzare, ospitare, archiviare, pubblicare, trasmettere, adattare, modificare, riprodurre , distribuire, preparare lavori derivati, visualizzare, eseguire e concedere in sublicenza i Contenuti Utente allo scopo di consentire l’utilizzo dei Servizi e la creazione di Progetti.
+ 
+7. #### Garanzie rilasciate dell'utente
+    1. Caricando i Contenuti Utente sul Sito, garantisci:
+        - Di essere il titolare dei diritti sui Contenuti Utente ed altri contenuti comunque appartenenti o collegati ai Contenuti Utente o di essere altrimenti autorizzato a pubblicare, visualizzare, eseguire, trasmettere, modificare, adattare, modificare, concedere in licenza o altrimenti utilizzare e distribuire i Contenuti Utente durante l’uso dei Servizi.
+        -  Che il Contenuto Utente non viola i diritti di proprietà intellettuale (diritti d’autore ed altri diritti di proprietà intellettuale su marchi e database) di terze parti.
+        - Che i Contenuti Utente non violano la privacy di un’altra persona.
+        - Di essere autorizzato a caricare contenuti di terze parti dal legittimo titolare.
+        - Che i Contenuti Utente non sono diffamatori, osceni, deliberatamente offensivi, non promuovono l’odio, la violenza o qualsiasi attività illegale in nessuna forma.
+        - Che i Contenuti Utente non discriminano alcuna persona, né in quanto appartenente ad un gruppo o classe sociale, né per motivi di razza, sesso, religione, nazionalità, disabilità, orientamento sessuale o età.
+        - Di non introdurre sul nostro Sito alcun codice dannoso (inclusi virus o altro malware) che potrebbe avere l’effetto di disabilitare, interrompere o altrimenti influenzare negativamente in tutto o in parte la prestazione dei Servizi.
+
+    2. Accetti di essere l’unico responsabile dei Contenuti Utente. Accetti di manlevare e tenere indenne NextInt, da qualsiasi reclamo, danno e costo, causato da una o più violazioni o presunte violazioni di questo articolo.
+
+8. #### Risoluzione
+    1. In caso di violazione di una qualsiasi disposizione del presente Contratto, ti invieremo una comunicazione via e-mail per notificarti l’inadempimento concedendoti un termine ragionevole entro cui porre rimedio alla violazione. Qualora Tu non abbia provveduto a porre rimedio all’inadempimento, il Contratto si intenderà risolto, fermo restando il nostro diritto a chiedere un risarcimento dei danni e salvi gli altri rimedi concessi dalla legge applicabile. Ci riserviamo il diritto di sospendere l’accesso al Sito e l’uso del Servizio fino a quando la violazione non sarà stata sanata.
+    2. Fermo restando quanto indicato alla clausola 8.1, ci riserviamo il diritto di sospendere il tuo accesso ai Servizi e chiudere il tuo account risolvendo il presente Contratto immediatamente e senza preavviso ai sensi dell’articolo 1456 del codice civile in caso di mancato rispetto di una o più delle disposizioni indicate alla clausola 7.1, fermo restando qualsiasi altro rimedio a cui potremmo avere diritto ai sensi del presente Contratto o per legge.
+    3. È possibile annullare l’Abbonamento in qualsiasi momento. Tieni presente che nel caso in cui decidi di annullare l’Abbonamento o rimuovere il tuo account, non avrai diritto ad alcun rimborso.
+    4. In caso di risoluzione del presente Contratto, tutti i Contenuti Utente, i Progetti e i contenuti creati dall’Utente verranno rimossi in modo permanente dai nostri server e dalle pagine in cui sono stati pubblicati. NextInt non è un fornitore di servizi di hosting. Pertanto, è tua esclusiva responsabilità salvare tutti i tuoi contenuti, dati e Progetti al di fuori del nostro Sito prima che il Contratto venga risolto o il tuo account sospeso.
+
+9. #### Limitazioni di responsabilità
+    1. Adoperiamo ogni ragionevole sforzo per garantire che il nostro Sito sia online e completamente funzionante, tuttavia non possiamo garantire la disponibilità del Sito Web e dei Servizi 24 ore su 24, 7 giorni su 7. Non ci assumiamo né accettiamo alcuna responsabilità in caso di interruzioni o non disponibilità dei nostri Servizi a causa di fattori esterni quali, a titolo esemplificativo, guasti alle apparecchiature, problemi con l’ISP (internet service provider), guasti alle apparecchiature host, guasti alla rete di comunicazione, eventi naturali o impedimenti giuridici.
+    2. Adoperiamo ogni ragionevole sforzo per garantire che il nostro Sito sia privo di virus e altri malware. Tuttavia, non ci assumiamo responsabilità per eventuali perdite o danni causati da virus o altri malware, attacchi DooS o altri eventi dannosi che potrebbero influenzare negativamente l’hardware, il software, i dati o altri contenuti e che si verifichino durante l’uso dei nostri Servizi (incluso il download di qualsiasi contenuto) o per qualsiasi altro sito web di terze parti contenuto o richiamato all’interno del nostro Sito web.
+    3. Nulla di quanto previsto in questi Termini intende escludere o limitare la nostra responsabilità per dolo o colpa grave o per qualsiasi altra forma di responsabilità che non può essere esclusa o limitata per legge, incluso in caso di morte o lesioni personali.
+    4. NextInt non è responsabile in caso di perdita dei Contenuti Utente. Invitiamo gli Utenti ad eseguire regolarmente il backup dei propri contenuti.
+
+10. #### Modifiche al contratto e alle caratteristiche del servizio
+    1. NextInt si riserva il diritto di apportare modifiche al presente Contratto in qualsiasi momento per ragioni normative, tecniche o commerciali notificando agli Utenti eventuali variazioni con almeno 15 giorni di preavviso.  Le modifiche potranno diventare efficaci con effetto immediato qualora NextInt lo ritenesse necessario. Potremmo anche chiederti di visualizzare ed accettare queste modifiche quando accedi al tuo account. Qualsiasi modifica ai corrispettivi non avrà alcun impatto sugli ordini già effettuati e sarà applicabile solo ai nuovi ordini o a eventuali rinnovi di Abbonamento.
+    2. NextInt si riserva il diritto di apportare modifiche alle caratteristiche del Servizio in qualsiasi momento. NextInt si riserva di avvisarti rispetto ad eventuali modifiche al Servizio prima che le stesse vengano effettivamente implementate. Potremmo applicare queste modifiche immediatamente se lo ritenessimo necessario.
+
+11. #### Diritti di recesso
+    1. L’Utente che rivesta la qualifica di consumatore e sia residente nell’Unione Europea ha il diritto di cancellare il proprio ordine di acquisto entro e non oltre 14 giorni dalla conclusione del Contratto, senza penalità e senza specificarne il motivo (“Periodo di recesso”). Tuttavia, vogliamo informarti che i nostri Servizi consistono nella prestazione di uno servizio di visualizzazione dati che permette di generare contenuti digitali su supporto non materiale (generando per l’appunto reports grafiche, tabelle e dati). Nel momento stesso in cui accedi al tuo account ed inizi ad usufruire dei Servizi (ad esempio creando un nuovo Progetto o caricando i Contenuti Utente) la nostra prestazione si intende interamente effettuata e pertanto non sarà più possibile esercitare il diritto di recesso, così come previsto dall’articolo 59 del codice del consumo. Pertanto, sei consapevole ed accetti di perdere il diritto di cancellazione in caso di utilizzo del Servizio durante il Periodo di recesso. Qualora tu abbia effettuato la registrazione senza tuttavia utilizzare il Servizio, potrai esercitare il diritto di recesso ed ottenere il rimborso del prezzo pagato.
+    2. Per esercitare il diritto di recesso dovrai inviare una comunicazione al seguente indirizzo e-mail: <subscription@bstream.io> anche utilizzando il modulo di recesso, disponibile qui.
+    3. Senza indebito ritardo e comunque non oltre 14 giorni dal ricevimento della richiesta di recesso, procederemo al rimborso dell’importo pagato utilizzando lo stesso strumento di pagamento da te utilizzato in fase di acquisto.
+
+12. #### Legge applicabile e foro competente
+    1. Il presente Contratto è disciplinato dalla legge italiana. Per gli Utenti residenti nell’Unione Europea che rivestano la qualifica di consumatori, il foro competente a decidere di eventuali controversie sarà quello di loro residenza.
+    2. In conformità al Regolamento UE del Parlamento Europeo e del Consiglio N. 524/2013 riportiamo il link alla piattaforma europea di risoluzione online delle controversie: <http://ec.europa.eu/consumers/odr/> 
+    3. Per gli Utenti che non rivestano la qualifica di consumatori, tutte le controversie incluse quelle attinenti all’interpretazione ed esecuzione del Contratto saranno demandate alla competenza esclusiva del foro di Milano, Italia.
+  
+Ultimo aggiornamento 08.10.2020
+  
+{% include totop.html %}
+

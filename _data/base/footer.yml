@@ -1,15 +1,13 @@
 # Center style footer navigation
-# center:
-#   - title: Privacy policy
-#     url: #//
+ center:
+   - title: Terms
+     url: /terms
 
-#   - title: Terms
-#     url: #//
+   - title: Privacy
+     url: /privacy
 
-
-
-# ho commentato da qui in poi. quando avremo privacy e terms ripristineremo i due link sopra
-
+   - title: Cookies
+     url: /cookies
 
 
 # Columns style footer navigation
